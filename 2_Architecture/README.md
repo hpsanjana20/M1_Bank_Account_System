@@ -21,4 +21,4 @@
 
 * Packet Diagram
 
-![packet_Diagram]
+![packet_Diagram](https://github.com/hpsanjana20/M1_Electricity_Bill/blob/main/2_Architecture/packet_diagram.drawio.png)
