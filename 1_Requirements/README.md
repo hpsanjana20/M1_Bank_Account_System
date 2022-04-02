@@ -1,33 +1,39 @@
-# Description
-* Income Tax Calculator is reliable and easy-to-use calculator to estimate your Tax payable on taxable income. Income tax is computed as the product of a tax rate times the taxable income in accordance to guidelines laid out by Income Tax Department.
+# Description  
 
-# Requirements
+This project is helpful for generating electricity bill with the help of units consumed.
+It is available 24*7 and is easy to use.
+ 
+ ## **Features of the project**
+ ```     
+ This project's key features are :
+ * You can get the electricity bill by giving the details which will be asked.
+ * Bill is generated accordingly on the basis of where you live in-either Urban or Rural.
+ 
+ ```
+## **Requirements**
 * Visual Studio Code, gcc compiler, Linux OS, Windows OS
-* 
-# Features
-* You can get the tax payable based on your taxable income.
-* You can select age-based distinction and pay your tax payable accordingly.
-* You can see and compare the tax payables under Old Regime and New Regime of Income Tax.
-   
-# Highlevel Requirements
+*     
+## Highlevel Requirements
 |HLR_ID|Description|Status|
 |:--:|:--:|:--:|
-|HLR_1|This project helps to get tax payable on your taxable income|Implemented|
-|HLR_2|This project allows to select age based distinction on tax payable|Implemented|
-|HLR_3|This project allows to compare tax payable under Old Regime and New Regime of Income Tax|Implemented|
-|HLR_4|This project allows to include Allowances|Future|
-|HLR_5|This project allows to include Deductions|Future|
+|HLR_1|This project helps to get electric bill|Implemented|
+|HLR_2|This project  collects all the details of the customer|Implemented|
+|HLR_3|This project allows to select wherther they are from Rural or Urban|Implemented|
+|HLR_4|This project generates the bill according to the number of units of power consumed|Implemented|
+|HLR_5|This project allows to change the value of power per unit|Future|
 
     
-# Lowlevel Requirements
+## Lowlevel Requirements
 |HLR_ID|LLR_ID|Description|Status|
 |:--:|:--:|:--:|:--:|
-|HLR_1|LLR_01|Selects tax rates applicable according to the range of taxable income|Implemented|
-|HLR_2|LLR_01|Tax payable for people with age less than 60|Implemented|
-||LLR_02|Tax payable for people with age more than 60 but less than 80|Implemented|
-||LLR_03|Tax payable for people with age more than 80|Implemented|
-|HLR_3|LLR_01|Tax payable under Old Regime|Implemented|
-||LLR_02|Tax payable under New Regime|Implemented|
+|HLR_1|LLR_01|Selects the rate applicable according to the range of units consumed|Implemented|
+|HLR_3|LLR_01|Amount according to Rural selection|Implemented|
+||LLR_02|Amount according to Urban selection|Implemented|
+|HLR_4|LLR_01|Rate for unit consumed within 0 and 30|Implemented|
+||LLR_02|Rate for unit consumed within 31 and 100|Implemented|
+||LLR_03|Rate for unit consumed within 101 and 200|Implemented|
+||LLR_04|Rate for unit consumed above 200|Implemented|
+
 
 
 
