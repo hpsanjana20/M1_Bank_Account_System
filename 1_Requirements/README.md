@@ -35,17 +35,16 @@ It is available 24*7 and is easy to use.
 ||LLR_04|Rate for unit consumed above 200|Implemented|
 
 
-
-
 # SWOT Analysis
+
 ![](https://github.com/hpsanjana20/M1_Electricity_Bill/blob/main/6_ImagesAndVideos/SWOT%20Analysis.png)
 
 # 4W's & 1H
-* **What**  : A reliable and easy-to-use Income Tax Calculator.
-* **When**  : Whenever there is a need to track the tax payable on taxable income and especially before filing Income Tax Return.
-* **Where** : All salaried people can use this calculator at their own convenience in their preferred location.
-* **Why**   : It automates the process of tax calculation and offers useful insights regarding their tax payable under Old and New Regime and many more features.
-* **How**   : By offering a software solution using C Programming.
+* **What**  : A reliable and easy method to calculate electricity bill
+* **When**  : Used when a person needs to know how much his bill is
+* **Where** : Using Visual Studio Code and C compiler
+* **Why**   : Feasable and easy
+* **How**   : Using C language
 
 
 
