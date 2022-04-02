@@ -38,7 +38,7 @@ It is available 24*7 and is easy to use.
 
 
 # SWOT Analysis
-![]https://github.com/hpsanjana20/M1_Electricity_Bill/blob/main/6_ImagesAndVideos/SWOT%20Analysis.png
+![](https://github.com/hpsanjana20/M1_Electricity_Bill/blob/main/6_ImagesAndVideos/SWOT%20Analysis.png)
 
 # 4W's & 1H
 * **What**  : A reliable and easy-to-use Income Tax Calculator.
