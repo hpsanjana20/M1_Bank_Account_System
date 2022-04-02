@@ -21,8 +21,7 @@ It is available 24*7 and is easy to use.
 |HLR_3|This project allows to select wherther they are from Rural or Urban|Implemented|
 |HLR_4|This project generates the bill according to the number of units of power consumed|Implemented|
 |HLR_5|This project allows to change the value of power per unit|Future|
-
-    
+   
 ## Lowlevel Requirements
 |HLR_ID|LLR_ID|Description|Status|
 |:--:|:--:|:--:|:--:|
@@ -34,17 +33,16 @@ It is available 24*7 and is easy to use.
 ||LLR_03|Rate for unit consumed within 101 and 200|Implemented|
 ||LLR_04|Rate for unit consumed above 200|Implemented|
 
-
 # SWOT Analysis
 
 ![](https://github.com/hpsanjana20/M1_Electricity_Bill/blob/main/6_ImagesAndVideos/SWOT%20Analysis.png)
 # 4W's & 1H
 
-* **What**  : A reliable and easy method to calculate electricity bill
-* **When**  : Used when a person needs to know how much his bill is
-* **Where** : Using Visual Studio Code and C compiler
-* **Why**   : Feasable and easy
-* **How**   : Using C language
+ **What**  : A reliable and easy method to calculate electricity bill
+ **When**  : Used when a person needs to know how much his bill is
+ **Where** : Using Visual Studio Code and C compiler
+ **Why**   : Feasable and easy
+ **How**   : Using C language
 
 
 
