@@ -11,16 +11,14 @@ It is available 24*7 and is feasible to bussiness owners.
  
  ```
 ## **Requirements**
- 
- Technologies and Tools Used:
- 
-     * Development Tool: Github Website.
-     * IDE Used : Virtual Studio Code.
-     * Web browser: Mozilla Firefox.
-     * Languages Used: C Language, Makefile.
-     * Compiler : GCC Compiler.
-     * Operating System : Linux OS, Windows OS.
+     Technologies and Tools Used:
      
+         * Development Tool: Github Website.
+         * IDE Used : Virtual Studio Code.
+         * Web browser: Mozilla Firefox.
+         * Languages Used: C Language, Makefile.
+         * Compiler : GCC Compiler.
+         * Operating System : Linux OS, Windows OS.     
 ## Highlevel Requirements
 |HLR_ID|Description|Status|
 |:--:|:--:|:--:|
@@ -47,4 +45,6 @@ It is available 24*7 and is feasible to bussiness owners.
         1. Clone my repository into your system.
         2. You should go to 3_Implementation/ folder.
         3. Run "make Run" command in your terminal for execution of program.
+        
+ 
         
