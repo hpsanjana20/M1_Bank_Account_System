@@ -24,19 +24,19 @@ It is available 24*7 and is feasible to bussiness owners.
 ## Highlevel Requirements
 |HLR_ID|Description|Status|
 |:--:|:--:|:--:|
-|HLR_1|This project helps to get tax payable on your taxable income|Implemented|
-|HLR_2|This project allows to select age based distinction on tax payable|Implemented|
-|HLR_3|This project allows to compare tax payable under Old Regime and New Regime of Income Tax|Implemented|
-|HLR_4|This project allows to include Allowances|Future|
-|HLR_5|This project allows to include Deductions|Future|
+|HLR_1|This project helps to get electric bill|Implemented|
+|HLR_2|This project allows to select wherther they are from Rural or Urban|Implemented|
+|HLR_3|This project generates the bill according to the number of units of power consumed|Implemented|
+|HLR_4|This project allows to change the value of power per unit|Future|
 
     
 ## Lowlevel Requirements
 |HLR_ID|LLR_ID|Description|Status|
 |:--:|:--:|:--:|:--:|
-|HLR_1|LLR_01|Selects tax rates applicable according to the range of taxable income|Implemented|
-|HLR_2|LLR_01|Tax payable for people with age less than 60|Implemented|
-||LLR_02|Tax payable for people with age more than 60 but less than 80|Implemented|
-||LLR_03|Tax payable for people with age more than 80|Implemented|
-|HLR_3|LLR_01|Tax payable under Old Regime|Implemented|
-||LLR_02|Tax payable under New Regime|Implemented|     
+|HLR_1|LLR_01|Selects the rate applicable according to the range of units consumed|Implemented|
+|HLR_2|LLR_01|Rate for unit consumed within 0 and 30|Implemented|
+||LLR_02|Rate for unit consumed within 31 and 100|Implemented|
+||LLR_03|Rate for unit consumed within 101 and 200|Implemented|
+||LLR_04|Rate for unit consumed above 200|Implemented|
+|HLR_3|LLR_01|Amount according to Rural selection|Implemented|
+||LLR_02|LLR_01|Amount according to Urban selection|Implemented|     
