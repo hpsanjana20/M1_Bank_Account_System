@@ -40,6 +40,15 @@ It is available 24*7 and is feasible to bussiness owners.
 ||LLR_03|Rate for unit consumed within 101 and 200|Implemented|
 ||LLR_04|Rate for unit consumed above 200|Implemented|
 
+
+## Folder Description
+Folder        | description
+--------------| ----------------------------------------------
+`inc`         | All header files
+`src`         | Main source code for calculator
+`test`        | All source code and data for testing purposes
+`unity`       | All files in accordance with Unity framework
+
 ## Behavioral Diagrams
 
 
