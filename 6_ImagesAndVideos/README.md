@@ -10,4 +10,5 @@
 
 * Working image 3
 
-![Screenshot](
+![Screenshot](https://github.com/hpsanjana20/M1_Electricity_Bill/blob/main/6_ImagesAndVideos/Screenshot%20(538).png)
+
