@@ -34,9 +34,9 @@ It is available 24*7 and is feasible to bussiness owners.
 |HLR_ID|LLR_ID|Description|Status|
 |:--:|:--:|:--:|:--:|
 |HLR_1|LLR_01|Selects the rate applicable according to the range of units consumed|Implemented|
-|HLR_2|LLR_01|Rate for unit consumed within 0 and 30|Implemented|
+|HLR_2|LLR_01|Amount according to Rural selection|Implemented|
+||LLR_02|Amount according to Urban selection|Implemented|
+|HLR_3|LLR_01|Rate for unit consumed within 0 and 30|Implemented|
 ||LLR_02|Rate for unit consumed within 31 and 100|Implemented|
 ||LLR_03|Rate for unit consumed within 101 and 200|Implemented|
 ||LLR_04|Rate for unit consumed above 200|Implemented|
-|HLR_3|LLR_01|Amount according to Rural selection|Implemented|
-||LLR_02|LLR_01|Amount according to Urban selection|Implemented|     
