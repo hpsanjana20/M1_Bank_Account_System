@@ -40,3 +40,11 @@ It is available 24*7 and is feasible to bussiness owners.
 ||LLR_02|Rate for unit consumed within 31 and 100|Implemented|
 ||LLR_03|Rate for unit consumed within 101 and 200|Implemented|
 ||LLR_04|Rate for unit consumed above 200|Implemented|
+
+## Implementation
+    Instructions to RUN program :
+    
+        1. Clone my repository into your system.
+        2. You should go to 3_Implementation/ folder.
+        3. Run "make Run" command in your terminal for execution of program.
+        
