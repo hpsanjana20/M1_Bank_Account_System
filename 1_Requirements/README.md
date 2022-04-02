@@ -38,11 +38,11 @@ It is available 24*7 and is easy to use.
 ![](https://github.com/hpsanjana20/M1_Electricity_Bill/blob/main/6_ImagesAndVideos/SWOT%20Analysis.png)
 # 4W's & 1H
 
- **What**  : A reliable and easy method to calculate electricity bill
- **When**  : Used when a person needs to know how much his bill is
- **Where** : Using Visual Studio Code and C compiler
- **Why**   : Feasable and easy
- **How**   : Using C language
+* **What**  : A reliable and easy method to calculate electricity bill
+* **When**  : Used when a person needs to know how much his bill is
+* **Where** : Using Visual Studio Code and C compiler
+* **Why**   : Feasable and easy
+* **How**   : Using C language
 
 
 
