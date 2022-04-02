@@ -46,5 +46,8 @@ It is available 24*7 and is feasible to bussiness owners.
         2. You should go to 3_Implementation/ folder.
         3. Run "make Run" command in your terminal for execution of program.
         
+## Author
+- [hpsanjana20](https://github.com/hpsanjana20)
+        
  
         
