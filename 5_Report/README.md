@@ -64,6 +64,10 @@ It is available 24*7 and is feasible to bussiness owners.
 
 ![packet_Diagram](https://github.com/hpsanjana20/M1_Electricity_Bill/blob/main/2_Architecture/packet_diagram.drawio.png)
 
+# SWOT Analysis
+
+* ![](https://github.com/hpsanjana20/M1_Electricity_Bill/blob/main/6_ImagesAndVideos/SWOT%20Analysis.png)
+
 
 ## Implementation
     Instructions to RUN program :
