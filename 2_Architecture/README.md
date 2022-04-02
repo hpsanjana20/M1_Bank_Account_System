@@ -17,7 +17,7 @@
 
 * Object Diagram
 
-![object_Diagram]
+![object_Diagram](https://github.com/hpsanjana20/M1_Electricity_Bill/blob/main/2_Architecture/object_diagram.drawio.png)
 
 * Packet Diagram
 
