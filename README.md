@@ -6,6 +6,7 @@ Electricity bill is generated on the basis of units consumed. Amount is calculat
 |Build|cppcheck|
 |:--:|:--:|
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2604c8611e144482b49bdeb77dab2741)](https://app.codacy.com/gh/hpsanjana20/M1_Electricity_Bill?utm_source=github.com&utm_medium=referral&utm_content=hpsanjana20/M1_Electricity_Bill&utm_campaign=Badge_Grade_Settings)
 [![Build CI -Windows](https://github.com/hpsanjana20/M1_Electricity_Bill/actions/workflows/windows.yml/badge.svg)](https://github.com/hpsanjana20/M1_Electricity_Bill/actions/workflows/windows.yml)
 [![cppcheck](https://github.com/hpsanjana20/M1_Electricity_Bill/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/hpsanjana20/M1_Electricity_Bill/actions/workflows/cppcheck.yml)
 
