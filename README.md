@@ -2,6 +2,11 @@
 Electricity bill is generated on the basis of units consumed. Amount is calculated on the basis of the range of units consumed and is computed on the basis of urban or rural.
 
 
+## Badges
+|Build|
+|:--:|
+[![Build CI -Windows](https://github.com/hpsanjana20/M1_Electricity_Bill/actions/workflows/windows.yml/badge.svg)](https://github.com/hpsanjana20/M1_Electricity_Bill/actions/workflows/windows.yml)
+
 ## Folder Structure
 |Folder|Description|
 |:--:|:--:|
