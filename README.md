@@ -6,6 +6,7 @@ Electricity bill is generated on the basis of units consumed. Amount is calculat
 |Build|cppcheck|
 |:--:|:--:|
 
+[![Build CI -Windows](https://github.com/hpsanjana20/M1_Electricity_Bill/actions/workflows/windows.yml/badge.svg)](https://github.com/hpsanjana20/M1_Electricity_Bill/actions/workflows/windows.yml)
 [![cppcheck](https://github.com/hpsanjana20/M1_Electricity_Bill/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/hpsanjana20/M1_Electricity_Bill/actions/workflows/cppcheck.yml)
 
 ## Folder Structure
